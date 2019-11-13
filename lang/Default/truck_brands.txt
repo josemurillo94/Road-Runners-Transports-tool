@@ -1,0 +1,15 @@
+daf.xf;DAF XF105
+daf.xf_euro6;DAF XF
+iveco.hiway;Iveco Hi-Way
+iveco.stralis;Iveco Stralis
+man.tgx;MAN TGX
+mercedes.actros;Mercedes Actros
+mercedes.actros2014;Mercedes New Actros
+renault.magnum;Renault Magnum
+renault.premium;Renault Premium
+scania.r;Scania R 2012
+scania.r_2016;Scania R
+scania.s_2016;Scania S
+scania.streamline;Scania Streamline
+volvo.fh16;Volvo FH16 Classic
+volvo.fh16_2012;Volvo FH
